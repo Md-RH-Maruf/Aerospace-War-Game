@@ -1,0 +1,2 @@
+Music:false
+Sfx:true
